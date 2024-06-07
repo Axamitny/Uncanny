@@ -1,0 +1,16 @@
+Skróty klawiszowe do gry
+WSAD/Strzałki/Prawy Przycisk Myszy -> Poruszanie kamerą na mapie przygody
+1,2,3,4,5,6 -> Wybór kolejnych aktywnych armii
+TAB (mapa przygody) -> Wycentrowanie kamery na stolicy gracza
+ESC -> ekran opcji
+Q -> pokaż/ukryj czat (tylko gdy włączony w opcjach)
+TAB (walka) (przytrzymanie) -> Schowaj interfejs walki
+D -> akcja obrony podczas walki
+Shift + click (mapa przygody) -> Podziel jednostke (tylko w panelu armii)
+Shift + click (walka) -> Pokaż informacje o danej jednostce
+Alt + f4 -> Szybkie zamknięcie gry
+
+
+Link do gameplayów:
+
+https://drive.google.com/drive/folders/1BJadPZGESOSEKelinZgGQ8-9wSN2-9XE?usp=sharing

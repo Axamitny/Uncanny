@@ -1,0 +1,64 @@
+- Dodano Drzewko Umiejętności ludzi
+- Naprawione błędy:
+  - Przycisk drzewka frakcji nie bedzie pojawiał się przy wyborze frakcji
+  - Przyciski drzewek frakcji pojawiają się już dla właściwych frakcji
+  - Puste dialogi nie będą już pojawiały się po ukończeniu bitwy
+  - Przycisk frakcji nie znika już po walce
+  - Nie można już kupować jednostek z innych frakcji.
+  - Zdobyta kopalnia poprawnie produkuje zasoby od swojej pierwszej tury na służbie.
+  - Jednostki innych frakcji nie mają ikon i modeli jednostek ludzi
+  - Nie można już mnożyć punktów ruchu
+-Poprawiono optymalizacje
+
+Zmiany balansu:
+- Akcja obrony:
++15 do obrony -> +100% obrony
+- Bonus do obrażeń za każdy punkt różnicy Atak/Obrona:
+  2.5% -> 5%
+- Cena ulepszenia jednostki na 1 poziom:
+  1/1/2/2/1000 -> 3/3/3/3/1000
+- Cena ulepszenia jednostki na 2 poziom:
+  2/2/4/4/2000 -> 6/6/6/6/2000
+- Cena ulepszenia jednostki na 3 poziom:
+  3/3/6/6/3000 -> 9/9/9/9/3000
+- Pospolite ruszenie (Ludzie):
+Usunięto: 
+Nie daje już jednostek w armii jeżeli mamy jeszcze nieaktywne armie.
+Nowość: 
+Teraz daje jednostki z umięjetności do kupienia za darmo w stolicy.
+- Inteligencja:
+Usunięto:
+Nie daje już 5% szczęścia na wszystkich jednostkach za każdy posiadany punkt.
+Nowość: 
+Za każdy posiadany punkt zwiększa ilość zdobywanego doświadczenia o 10%.
+- Populacja (Ludzie):
+  Startowa populacja: 3 -> 10
+  Przyrost populacji: 10% -> 50%
+- Darowizna (Ludzie):
+  Koszt: 500 / 500 -> 1500 / 1500
+  Efekt: +1 morale / +2 morale -> +1 tendencja / +2 tendencja
+- Nowi rekruci (Mroczni):
+Usunięto: 
+Nie daje już jednostek najbliższej armii.
+Nowość: 
+Daje teraz jednostki w postaci jednostek do kupienia za darmo w stolicy.
+- Wiedza to Potęga (Mroczni):
+   Dodatkowa Moc Duszy: 2 -> 3
+- Bezwładność Duszy (Mroczni):
+   Dodatkowa prędkość jednostek: 0-5 / 1-7 -> 0-5 / 1-8
+- Żywi oraz Martwi (Mroczni):
+   Cena za jednostkę w żelazie: Liczebność * poziom / Liczebność -> Liczebność
+- Adaptacja (Las)(pierwsza opcja):
+Bonus: 4% * Ekosystem * Poziom -> 0.5 * Ekosystem * Poziom
+- Adaptacja (Las)(druga opcja):
+Usunięto:
+Za każdym razem gdy spróbujesz zwiększyć Ekosystem powyżej 10 zwiększ najniższy atrybut bohatera o 2 punkty.
+Nowość:
+Za pierwszym razem gdy osiągniesz maksymalne zaopatrzenie ulepsz szczęście swoich jednostek o 10% * Ekosystem oraz zwiększ punkty ruchu swoich armii o 2 * Ekosystem na 2 tury.
+- Ekologia (Las):
+Nowość:
+Za każdym razem gdy Ekosystem dzieki tej umiejętności miałby wzrosnąć powyżej 10, zwiększ maksymalne życie losowego typu przyjaznej jednostki wzrasta o 2
+Ekosystem wzrasta za każde poległe (3 -> 5) jednostek
+- Łańcuch pokarmowy (Las):
+  Bonusy do obrażeń: 33% / 66% / 100% -> +3 / +6 / +12
+   

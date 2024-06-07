@@ -1,0 +1,32 @@
+Nowość:
+   - Jeżeli poświęcisz jednostkę Siłą Jednej Woli, to uzyskasz za nią bonusy wynikające ze Zbrodni Wojennych
+  -  Mgła Wojny powróci po 2 turach odkąd ostatnio została odkryta
+  - Mgła wojny przykrywa wrogie armie
+  - Dodano zakładkę ,,Ostatnie zmiany" na ekranie startowym
+  - Dodano nowe obrazki na przyciski umiejętności (druga paczka)
+  - Nowe modele jednostek (wiem ze niezbyt widać)
+  - Tryb Pojedynku (mirror match upy niezbyt jeszcze istnieją, ale reszta powinna działać)
+// Inspiracja nie dostała ikonki z bardzo konkretnego powodu
+
+
+Naprawione błędy: 
+   - Adepci nie będą leczyć już martwych sojuszników
+   - Mroczni nie mogą już wskrzesić jednostek neutralnych jako swoje ponad limit
+   - Ratusze już działają po ich przejęciu
+   - ,,Strzałka" darowizny poprawnie się pokazuje
+   - Jeziorka Kryształów już działają poprawnie w Kanionie
+   - Szkolenie Praktyczne II poprawnie jest już ulepszeniem umiejętności I poziomu
+
+Zmiany balansu:
+   - Ludzie;
+      - Gwardziści:
+	- Obrażenia: 3 - 7 -> 5 - 9
+   - Las:
+      - Drzewiec:
+	- Prędkość: 2 -> 3
+	- Inicjatywa: 6 -> 5
+	- Życie: 35 -> 40
+	- Bonus przeciwko Lekkim: +4 -> +8
+
+(Dev Info)
+Tak, zdaje sobie sprawę, że czas ładowania map się zwiększył.

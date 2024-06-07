@@ -1,0 +1,59 @@
+Naprawione błędy:
+- Statystyki jednostek będą poprawnie pokazywały już efekt morali
+- Przeciwnicy neutralni będą poprawnie atakować cele z którymi są zwiazani walką
+- Poprawiono niektóre opisy umiejętności
+
+Nowości:
+- Pomniejsze okienka interfejsu będą się zamykać po wyjściu z danego interfejsu
+- Po najechaniu na pole w zasięgu ruchu jednostki pokaże się teraz jej zasięg ataku z tego pola
+- Poprawiono optymalizacje
+- Dodano nowe rysunki (!)
+- Dodano ekran wyników w Pojedynku
+
+Zmiany:
+	Ludzie:
+Ludność: 
+   - Startowa: 10 -> 20
+   - Przyrost: 0.25 -> 0.1
+   - Maksymalna: 50 -> 70
+Gwardzista:
+   - Obrażenia: 5 - 9 -> 3 - 8
+   - Życie: 12 -> 15
+   - Bonus przeciwko strzelcom: 2 -> 4
+Kapłanki:
+   - Życie: 18 -> 8
+   - Inicjatywa: 3 -> 5
+   - Bonus przeciwko lekkim: 3 -> 5
+Morale:
+   - Modyfikator prędkości i inicjatywy: -5 - 5 -> -2 - 2
+
+Inspiracja: 
+   - Istnienie: Tak -> Nie
+
+*Nowość*: Wolny Rynek:
+Gdy kupujesz zasoby na targu, to wydane dobra zostają na Rynku.
+Rynek daje powtarzalne bonusy co kilka tur, w zależności od złota które się na nim znajduje
+oraz ludności gracza
+
+*Nowość*: Królewskie Służby:
+Królewskie Służby wykonują wybrany przez gracza rozkaz w tempie zależnym od wpłacanego
+im co turę złota.
+
+	Mroczni:
+Żywi oraz Martwii (Rework):
+I: Jeżeli po bitwie masz Przebitych (Dusze) w armii, możesz wskrzesić poległe jednostki w tej
+bitwie jako Przebitych (Dusze) oprócz kosztu w złocie płacąc liczbę wskrzeszonego zaopatrzenia
+w żelazie.
+II: Każde wskrzeszone 20 zaopatrzenia danej jednostki zwiększa na stałe atak tej jednostki o 1.
+
+Nowi Rekruci
+Nowość: Można poświęcić ludzi w mieście już przejętym, nie tylko przy przejmowaniu.
+
+	Las:
+Ekologia (Rework):
+I: Bez zmian
+II:Dodatkowo za każde [2x koszt najmniej licznej jednostki] złota z poległych jednostek, w mieście pojawi się darmowa najmniej liczna jednostka do zrekrutowania
+III: Dodatkowo za każde 8 poległych jednostek w bitwie ekosystem rośnie o 1. Jeżeli ekosystem miałby w ten sposób 10 to zamiast tego zwiększ życie losowego typu jednostki o 3. 
+
+Jednorożce:
+   - Życie: 50 -> 40

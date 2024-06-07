@@ -1,0 +1,32 @@
+Nowości:
+   - Dodano licznik róznych typów jednostek (Las)
+   - Dodano licznik obecnego życia jednostek po najechaniu na nie kursorem
+   - Dodano panel z przybliżonymi ilościami Neutralnych Armii po najechaniu na nie
+   - Neutralne Adeptki będą leczyły swoich rannych sojuszników
+
+Naprawione błędy:
+   - Nie można już atakować przeciwników na odległość
+   - Przyciski ekranu startowego są wyłączone, gdy ekran opcji jest uruchomiony
+   - Ulepszenia w ratuszach pobierają tyle złota ile powinny 
+   - Naprawiono błędy związane z funkcjonalnością przycisków umiejętności frakcji
+   - Naprawiono interfejs Bioinżynierii
+   - Naprawiono trzeci Ratusz na Eksterminacji
+   - Nie można już tworzyć pustych armii za pomocą Siły Jednej Woli
+
+Zmiany balansu:
+   - Ludzie:
+       - Gwardzista:
+	Obrażenia: 3-6 -> 3-7
+	Szczęście: 10 -> 8
+   - Mroczni:
+       - Spaczone Dusze:
+	Zaopatrzenie: 3 -> 5
+	Życie: 55 -> 60
+	Szczęście: 10 ->15
+	Inicjatywa: 2 -> 4
+       - Zbrodnie wojenne:
+	Zwiększenie duszy: Po 10 poległych jednostkach -> Po 15 straconych jednostkach
+	Bonus za efekt: Każda stracona jednostka -> Co 3 straconego zaopatrzenie
+   - Las:
+       - Ekosystem: Ekosystem nie sprawdza już, które jednostki ,,straciliśmy" na start
+

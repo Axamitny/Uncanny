@@ -1,0 +1,44 @@
+
+Naprawione błędy:
+- Armie gracza nie będą już spontanicznie znikać z pola widzenia
+- Umiejętność ,,Siła Jednej Woli" nie będzie już możliwa do użycia na innych frakcjach
+- Walka poprawnie już rozpocznie się po wejściu w bronioną strefę stolicy innego gracza
+- Nie można już pojawić się losowo w lokacji ostatniego ruchu przeciwnika
+- Przycisk stolicy poprawnie już centruje kamere na stolicy gracza
+- Stolica przeciwnika poprawnie już reprezentuje jego frakcje
+- Statystyki jednostki wroga nie będą już kopiowały bonusów aktualnego gracza
+- Cele misji nie będą już wyświetlane w Pojedynku
+- Nie można już obserwować ulepszeń Ratuszy poprzez mgłe wojny
+- Poprawnie można już przydzielić kilka punktów atrybutów w przypadku zdobycia kilku poziomów na raz
+- Budynki poprawnie odkrywają mgłe wojny w trybie Pojedynku
+- Neutralni przeciwnicy poprawnie już potrafią znajdować kratkę z której mogą zaatakować
+
+Nowości:
+- Dodano nowe zasoby na mapie Kanion w trybie Pojedynku
+- Czat nie jest już włączony domyślnie
+- Interfejs budowy ulepszeń Ratuszy został zaktualizowany
+- Naciśnięcie Prawym przyciskiem myszy przesunie kamere w dane miejsce (Mapa Przygody)
+- Przed pierwszą turą dodano opis frakcji oraz opis Interfejsu
+- Zmieniono kolejność trybów przy ich wyborze
+- Przycisk stolicy otworzy teraz również panel stolicy
+- Dodano dodatkowe znajdźki (Oblężenie)
+- Dodano wyzwanie na mapie Oblężenie
+- Zaopatrzenie startowej armii: 8 -> 12 (Oblężenie)
+- Dodano wzkaźnik niewydanych punktów w drzewku
+
+- Dodano samouczki
+- Poprawiono optymalizacje
+- Dodano oznaczenie zaznaczonej armii
+
+Zmiany Balansu:
+- Związanie walką:
+	- Atakująca jednostka też jest związana walką
+(Dev comment: To jest w zasadzie Bug Fix, ale jest tutaj bo to dosyć duża zmiana)
+- Doświadczenie:
+	- Doświadczenie potrzebne na poziom: 100 + 30 * poziom -> 100 + 40 * poziom
+	- Dodatkowe doświadczenie za każdy punkt inteligencji: 10% -> 7.5%
+- Adept:
+	- Przywracane zdrowie z umiejętności: 6 -> 2-6
+
+Dev Comment:
+Mam nadzieje, że każdy kto będzie testował przeżyje początkowe Learning Curve i będzie miał fun z grania. Niestety nie udało mi się zrobić pełnego samouczka, więc jak ktoś chciałby zobaczyć rozgrywkę, ale samemu nie ma ochoty to odsyłam do gameplayów, które nagrałem. Oprócz tego prosze o cierpliwość z niektórymi elementami gry. Niestety w grze nie ma ani ekranów ładowania ani pathfindingu, co na pewno będzie podnosić niektórym ciśnienie. 

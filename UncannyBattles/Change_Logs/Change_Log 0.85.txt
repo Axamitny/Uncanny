@@ -1,0 +1,51 @@
+Change_Log  0.85:
+- Nowe rysunki!
+- AI potrafi już poprawnie strzelać gdy ma cel w zasięgu
+- Samouczki nie będą już się wyświetlać gdy inny interfejs jest na ekranie
+- Nowe UI Ratuszy
+- Naprawiono nowe umiejętności ludzi na PvP
+- Naprawiono Mirror Match-Upy na PvP
+
+
+Globalne:
+- Przeliczniki rynku:
+	Pospolite zasoby : Rzadkie zasoby: 5 : 1 -> 10 : 1
+	Rzadkie zasoby : Rzadkie zasoby: 1 : 1 -> 3 : 1
+
+Ludzie:
+- Wolny Rynek: 
+	- Bonus za potencjał rynku: 1 za 5000 złota -> 1% za każde 50 złota
+	- Czas odnowienia rynku: 11 - 7 * ludność -> 7 - 5 * ludność (minimalnie 2)
+- Służby Królewskie:
+	Szpiegostwo Naukowe:
+	- 1 Ulepszenie: 
+	Kryt: +10 -> +0
+	Życie: +0 -> +7
+	- 3 Ulepszenie (Zaprzysiężony):
+	Obrażenia: +2 - +2 -> +5 - +5
+	Życie: +3 -> +0
+	Kryt: +0 -> +15
+
+	-  Trudności zadań:
+	Sabotaż: 5000 -> 2500
+	Odkrywanie: 5000 -> 2000
+	Zadowolenie: 5000 -> 3000
+	Dochody: 5000 -> 3000
+	Szpiegostwo: 5000 -> 4000
+
+Mroczni:
+- Ogólne: Odnawianie punktów ruchu bohatera nie może odnowić ponad maksymalne punkty ruchu.
+- Bez wytchnienia III (rework):
+Zwiększ maksylne punkty ruchu armii o 5.  Gdy armia gracza wygra bitwe, dodaj do niej 3 Bieseły.
+
+Las: 
+- Adaptacja II (rework):
+Gdy przegrasz bitwe użyj doświadczenia, aby ulepszyć najliczniejszą jednostke.
+100xp -> Hp
+50xp -> Atrybut (speed, inicjatywa, kryt)
+10xp -> Dmg
+
+- Selekcja Naturalna (rework):
+ I: Gdy osiągniesz maksymalne zaopatrzenie zwiększ ekosystem o 1.
+ II: Zwiększ maksymalne zaopatrzenie o 15.
+ III: Gdy zwiększysz w  Ekosystem ponad 10, zwieksz punkty ruchu wszystkich przyjaznych armii o 5.

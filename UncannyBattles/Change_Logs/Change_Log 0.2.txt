@@ -1,0 +1,42 @@
+Change Log 0.2
+-Naprawiono błąd powodujący, że można było wybrać armie skrótem klawiszowym podczas walki
+-Przycisku końca tury nie można juz wcisnąć gdy jakiś element interface'u jest włączony
+-Naprawiono błąd powodujący, że główny cel nie odsłaniał się z mgły wojny (Odsiecz)
+-Naprawiono działanie kolorów na sojuszniczych kopalniach
+-Zmienianie wielkosci interface'u skaluje sie teraz z wiekszością interfejce'u który można uruchomić w grze
+-Dodano okrąg wokół stolicy pokazujący strefe
+- Trade:
+  - Koszt pospolitych zasobów w złocie 100 -> 200
+  - Koszt rzadkich zasobów w złocie 200 -> 500
+-Dodano możliwośc przeglądania budynków po zbudowaniu juz jednego w danej turze
+-Dodano możliwość dodania maksymalnej/zerowej ilości jednostek do kupienia
+-Dodano statystyki bohatera
+  - Atak -> Kazdy punkt zwieksza atak wszystkich jednostek o 1
+  - Obrona -> Kazdy punkt zwieksza obrone wszystkich jednostek o 1
+  - Inteligencja -> Kazdy punkt zwieksza kryta wszystkich jednostek o 5%
+  - Zarzadzanie -> Kazdy punkt daje losowy zasób na końcu każdej tury
+-Dodano ikony statystyk bohatera
+-Naprawiono pole walki na Eksterminacji
+-Usunięto: Jednostki atakujące wręcz nie zadają juz 25% wiecej obrażeń jednostkom zasięgowym
+- Jednostki:
+  -Gwardzista: Obrażenia: 5-7 -> 3-6
+  -Bieseł: Obrażenia: 3-5 -> 2-4
+  -Driada: Obrażenia: 4-7 -> 2-5
+  -Adept: Obrażenia: 5-7 -> 2-6
+  -Przebity: Obrażenia: 10-15 -> 8-12
+  -Drzewiec: Obrażenia: 8-12 -> 6-10
+  -Kusznik: Obrażenia: 12-20 -> 8-18
+  -Spaczona Dusza: Obrażenia: 6-11 -> 5-10
+  -Młody Jednorożec: Obrażenia: 19-24 -> 18-22; Kryt: 10% -> 15%; Życie: 50 -> 60
+-Nowość: Słowa kluczowe
+  -Gwardzista: Lekki, Bonus przeciwko strzelcom (+4)
+  -Bieseł: Lekki, Bonus przeciwko strzelcom (+2)
+  -Driada: Strzelec, Bonus przeciwko ciezkim (+4)
+  -Adept: Ciężki, Bonus przeciwko lekkim (+3)
+  -Przebity: Ciężki, Bonus przeciwko ciężkim (+4), Bonus przeciwko lekkim (+4)
+  -Drzewiec: Ciężki, Bonus przeciwko lekkim (+4)
+  -Kusznik: Strzelec, Bonus przeciwko ciężkim (+5)
+  -Spaczona dusza: Ciężki, Bonus przeciwko ciężkim (+6)
+  -Młody jednorożec: Lekki, Ciężki, Bonus przeciwko ciężkim (+6)
+-Dodano powiadomienie przypominające o zbudowaniu budynku w danej turze
+-Dodano podgląd na aktualną jednostkę w bitwie

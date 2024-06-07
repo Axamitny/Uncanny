@@ -1,0 +1,12 @@
+Change Log 0.3
+-Naprawiono ekspansje na mapie Oblężenie
+-Naprawiono ,,darmowe jednostki" kupując darmowe jednostki poziomu trzeciego
+-Naprawiono zmiane koloru na ekspansjach
+-Zmieniono opisy jednostek
+-Nowość: Kapłanki mogą leczyć same siebie
+-Poprawiono niektóre niekorzystne interakcje z tarczą kapłanki
+-Zaktualizowano poruszanie się botów podczas bitew
+-Naprawiono błąd powodujący ruch armii po naciśnięciu przycisku końca tury
+-Naprawiono błąd powodujący ruch armii po pojawieniu się ekranu zwycięstwa
+-Poprawiono przejrzystość klikania na obeikty w grze
+-Naprawiono błąd zachowujący poprzednie punkty ruchu w nowo powstałych grupach

@@ -1,0 +1,40 @@
+Change Log 0.4
+-Naprawiono błąd związany z przyciskiem końca tury i pierwszym ruchem każdej nowej tury
+-Dodano funkcje pod TAB centrującą kamerę na stolicy gracza
+-Naprawiono błąd powodujący ze z jednostki nie znikało zwiazanie walką po ucieczce od wiążącej ją jednostki
+-Dodano różne kolory na różne razy zbudowania budynków dostępnych do wielokrotnej budowy
+-Naprawiono błędy związane z poruszaniem się jednostek atakujących na dystans
+-Naprawiono błąd powodujący, że wszystkie zbrojownie dawały atak przeciwnikom
+-Zmniejszono rozmiar mapy Odsiecz i dodano dodatkowe zasoby na mapie
+-Poprawiono optymalizacje
+-Poprawiono widoczność ramek oznaczających aktualne jednostki i potencjalne cele dla tych jednostek
+-Usunięto mylący opis misji Odsieczy
+-Naprawiono główne cele na Odsieczy
+-Dodano D jako skrót klawiszowy do akcji obrony
+-Budynek na zaopatrzenie
+  - Koszt złoto: 1500 -> 2250
+  - Koszt drewno: 5 - > 3
+  - Koszt żelazo 5 -> 3
+-Budynek na dodatkowe zasoby:
+  -Mroczni:
+    - Koszt złoto: 500 -> 1250
+    - Koszt żelazo: 10 -> 6 
+  -Las:
+   - Koszt złoto: 500 -> 1250
+   - Koszt drewno: 10 -> 6
+-Budynek na wymiane surowców
+  -Ludzie
+    - Koszt złoto: 1000 -> 1500
+    - Koszt drewno: 5 -> 2
+    - Koszt żelazo: 5 -> 2
+  -Mroczni
+    - Koszt złoto: 750 -> 1250
+    - Koszt drewno: 5 -> 2
+    - Koszt żelazo: 5 -> 3
+  -Las
+    - Koszt złoto: 750 -> 1250
+    - Koszt drewno: 5 -> 3
+    - Koszt żelazo: 5 -> 2
+-Zmniejszono pole walki na Odsieczy
+-Naprawiono walki podczas nieaktywności pierwszej armii
+-W przypadku niewykonania przez wroga zadnej akcji przez 5 sekund, automatycznie wykona akcje obrony

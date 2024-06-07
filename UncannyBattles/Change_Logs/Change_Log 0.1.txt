@@ -1,0 +1,12 @@
+Wersja 0.1
+- Poprawiono optymalizacje
+- Naprawiono przyciski ,,zasoby" i ,,income" w stolicy
+- Zmieniono przycisk ,,wyjdź" w panelu jednostek w stolicy na ,,wróć"
+- Naprawiono ulepszenia
+- Rozjaśniono przycisk ,,kup" w panelu jednostek w stolicy
+- Dodano opcje zmniejszania i zwiekszania interfejsu w menu
+- Naprawiono błąd powodujący blokowanie ruchu po turze botów
+- Naprawiono przycisk umiejętności na Adeptkach ludzi
+- Dodano możliwość ustawienia nazwy gracza i koloru w ekranie wyborów
+- Dodano system bohatera
+- Zmieniono napis przy zmienianiu nazwy armii na język polski
